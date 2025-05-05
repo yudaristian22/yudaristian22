@@ -1,6 +1,4 @@
-## Hi there I'm Yuda Ristian Asgari👋
-
-![Smile](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZnc3A0Z2djbmdlOXliZW1tcW05d3d5Y3ZqNXl4M2FiMGFpZ3dlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif)
+![Smile](img\github-header-image.png)
 
 <!--
 **yudaristian22/yudaristian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
